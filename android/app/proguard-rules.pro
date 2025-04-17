@@ -1,0 +1,2 @@
+-keep public class * implements com.ryanheise.audio_service.AudioServiceCallback
+-keep public class * extends android.app.Service
