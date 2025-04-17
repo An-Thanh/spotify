@@ -8,7 +8,6 @@ A beautiful Spotify-inspired mobile music player app built with **Flutter**.
 - 🔊 Song Player with seek, play/pause, and more
 - ❤️ Favorite songs (coming soon)
 - 👤 User profile management
-- 🎚️ Real-time music control via Bluetooth (Arduino integration)
 - 📂 Local or network-based audio file support
 
 ## 🚀 Screenshots
